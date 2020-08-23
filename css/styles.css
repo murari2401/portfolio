@@ -1,0 +1,30 @@
+body{
+  margin: 0px;
+  text-align: center;
+}
+h1{
+  display: inline;
+  width: 10%;
+  margin: 0 auto 0 auto;
+}
+.top-container{
+  background-color:#E4F9F5;
+  margin-top: 0px;
+  padding: 20px;
+}
+.middle-container{
+  background-color: red;
+  height: 200px;
+  width: 200px;
+}
+.bottom-container{
+  background-color: blue;
+  height: 200px;
+  width: 200px;
+}
+.web{
+  text-decoration: underline;
+}
+img{
+  position: relative;
+}
